@@ -1,0 +1,16 @@
+{
+  "name": "node-basic",
+  "version": "1.0.0",
+  "description": "Learning node",
+  "main": "1-HelloWorld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/6-NodeCoreModule-http.js"
+  },
+  "author": "Srinivas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
